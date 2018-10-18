@@ -1,3 +1,6 @@
+# MuonGun with StaticSurfaceInjector
+chain_name: muongun_static
+
 # Used Random Seed
 seed: 1337
 
@@ -60,4 +63,3 @@ muongun_generator: static
 muongun_model: GaisserH4a_atmod12_SIBYLL
 muongun_min_multiplicity: 1
 muongun_max_multiplicity: 1000
-
