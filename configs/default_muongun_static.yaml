@@ -9,7 +9,7 @@ dataset_number: 0
 # Events generated for each file
 n_events_per_run: 10000
 # Number of total runs/file
-n_runs: 1000
+n_runs: 10
 # Whether file after IceTray should be kept
 keep_crashed_files: False
 
