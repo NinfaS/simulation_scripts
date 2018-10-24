@@ -21,11 +21,11 @@ resources:
   # Indication of needed memory for each step if nothing is set 1GB is assumed as default
   memory:
     0: 1gb
-    1: 3gb
-    2: 3gb
-    3: 3gb
-    4: 3gb
-    5: 3gb
+    1: 1gb
+    2: 1gb
+    3: 1gb
+    4: 1gb
+    5: 1gb
   # Indication of the walltime (in hours) for each step, if nothing is set the system default for dagman and 1h for pbs are assumed
   walltime:
   # Indication of the number of cores for each step, default is 1
