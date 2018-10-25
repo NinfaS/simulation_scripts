@@ -7,9 +7,9 @@ seed: 1337
 # Number of the dataset
 dataset_number: 0
 # Events generated for each file
-n_events_per_run: 1000
+n_events_per_run: 100
 # Number of total runs/file
-n_runs: 100
+n_runs: 1000
 # Whether file after IceTray should be kept
 keep_crashed_files: False
 
@@ -20,7 +20,6 @@ resources:
     1: 1
   # Indication of needed memory for each step if nothing is set 1GB is assumed as default
   memory:
-    1: 3gb
   # Indication of the walltime (in hours) for each step, if nothing is set the system default for dagman and 1h for pbs are assumed
   walltime:
   # Indication of the number of cores for each step, default is 1
