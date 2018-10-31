@@ -34,6 +34,7 @@ resources:
 
 # PATH to the GCD File
 gcd: /cvmfs/icecube.opensciencegrid.org/data/GCD/GeoCalibDetectorStatus_2012.56063_V1.i3.gz
+gcd_2012: /cvmfs/icecube.opensciencegrid.org/data/GCD/GeoCalibDetectorStatus_2012.56063_V1.i3.gz
 # Folder in which the different step outputs should be stored
 output_folder: '{data_folder}/{generator}/{dataset_number}/{step}'
 # Pattern for the outputfile
