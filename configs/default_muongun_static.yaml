@@ -24,7 +24,7 @@ resources:
     2: 6gb
     3: 6gb
     4: 6gb
-    5: 6gb
+    5: 12gb
   # Indication of the walltime (in hours) for each step, if nothing is set the system default for dagman and 1h for pbs are assumed
   walltime:
   # Indication of the number of cores for each step, default is 1
